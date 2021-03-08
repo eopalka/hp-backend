@@ -1,0 +1,2 @@
+class Duel < ApplicationRecord
+end
